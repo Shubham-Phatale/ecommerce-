@@ -1,16 +1,6 @@
-# complete_flutter_ecommerce
+# complete_flutter_ecommerce_project
 
-A new Flutter project.
+A Basic Flutter Ecommerce project, added a local database for the login work flow and the storing the vlaues from cart
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image Alt text](/App%20Images/Login.png "Login")) ![Image Alt text](/App%20Images/Signup.png "Login")) ![Image Alt text](/App%20Images/Home.png "Login"))
