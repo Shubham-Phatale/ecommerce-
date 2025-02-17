@@ -1,4 +1,4 @@
-# complete_flutter_ecommerce_project
+# Flutter_ecommerce_project
 
 A Basic Flutter Ecommerce project, added a local database for the login work flow and the storing the vlaues from cart
 
